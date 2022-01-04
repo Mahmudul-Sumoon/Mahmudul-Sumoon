@@ -7,7 +7,8 @@
 ## I'm a Lazy Learner
 - 🤷‍♀️ I’m currently,
     - ✔ learning flutter! 🎯
-    - 🔦 learning node.js 🐱‍🏍
+    - ✔ learning node.js 🐱‍🏍
+    - 🔦learning state management
 - ⚽ 2022 Goals: Acquire knowledge about Mobile App Development. 🥱
 
 ### Connect with me:
