@@ -8,7 +8,7 @@
 - 🤷‍♀️ I’m currently,
     - ✔ learning flutter! 🎯
     - 🔦 learning node.js 🐱‍🏍
-- ⚽ 2021 Goals: Acquire knowledge about Mobile App Development. 🥱
+- ⚽ 2022 Goals: Acquire knowledge about Mobile App Development. 🥱
 
 ### Connect with me:
 
